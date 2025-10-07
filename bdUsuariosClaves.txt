@@ -1,0 +1,7 @@
+usuario,clave
+edgar,edgar123
+juan,juan123
+pedro,pedro123erick,erick123
+erick,erick1234
+mero,mero123
+mero,mero123
